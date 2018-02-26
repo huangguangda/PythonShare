@@ -1,5 +1,9 @@
 # PythonShare
 
+## 安装
+
+http://mp.weixin.qq.com/s/OwzI8Z1KwD90OCGpYIVHGA
+
 PythonShare初学者书籍、视频、资料、社区推荐
 
 Github 欢迎 Star、Fork，欢迎大家 Star、Pull Request 中提交推荐。
